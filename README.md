@@ -1,5 +1,9 @@
 # 🧠 ContextKeeper
 
+[![GitHub stars](https://img.shields.io/github/stars/Pantane1/ContextKeeper)](https://github.com/Pantane1/ContextKeeper/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Pantane1/ContextKeeper)](https://github.com/Pantane1/ContextKeeper/issues)
+[![GitHub license](https://img.shields.io/github/license/Pantane1/ContextKeeper)](https://github.com/Pantane1/ContextKeeper/blob/main/LICENSE)
+
 **Smart clipboard manager that automatically groups copied items into contextual sessions**
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
